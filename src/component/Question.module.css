@@ -1,0 +1,31 @@
+.container{
+    width: 1900px;
+    height: 300px;
+    background: #77bf2a;
+    margin-top: 20px;
+    display: flex;
+}
+
+.prev{
+    width: 100px;
+    height: auto;
+    background: #f9f8fd;
+    font-size: 40px;
+    font-weight: bold;
+}
+.quezBox{
+    width: 1700px;
+    height: 300px;
+    background: #deecf1;
+    margin-top: 0px;
+
+    display: flex;
+}
+
+.next{
+    width: 100px;
+    height: auto;
+    background: #fbfbfb;
+    font-size: 40px;
+    font-weight: bold;
+}
